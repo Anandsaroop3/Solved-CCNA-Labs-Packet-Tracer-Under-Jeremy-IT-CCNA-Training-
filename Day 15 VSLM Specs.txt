@@ -1,0 +1,17 @@
+Network : 192.168.5.0 /24
+
+Arranged with respect to the no of hosts
+
+LAN       No Of Hosts       Total address required     prefix allocation      Subnet             Network address      BroadCast Address   default gateway
+
+2	     64			 	66		     /25	  255.255.255.128	  192.168.5.0		192.168.5.127	   192.168.5.126
+						
+1	     45				47		     /26	  255.255.255.192	  192.168.5.128		192.168.5.191	   192.168.5.190
+
+3	     14				16                   /27          255.255.255.224	  192.168.5.192		192.168.5.223	   192.168.5.222
+
+4	     9				11		     /28	  255.255.255.240	  192.168.5.224		192.168.5.239	   192.168.5.238
+
+5            2                          4		     /30	  255.255.255.252	  192.168.5.240		192.168.5.243	    Router Link
+
+	
