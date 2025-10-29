@@ -5,7 +5,7 @@ If you’re preparing for your CCNA certification or just exploring computer net
 
 Please note that configurations of all labs are not explicitly written in Packet Tracer - except from Dynamic NAT Lab and onwards (configuration is explicitly written). For them, you may type "show run" in privelleged exec mode to view the configurations made.
 
-Alert : I haven't saved the running config into startup config, so make sure to save it. Below are the commands:
+Alert : I haven't saved the running config into startup config, so make sure to save it before turning off any device including routers, and switches. Below are the commands:
 In privelleged Exec Mode
 1. write memo
 2. copy run start
